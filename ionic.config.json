@@ -1,0 +1,7 @@
+{
+  "name": "jenkinsDemoIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
